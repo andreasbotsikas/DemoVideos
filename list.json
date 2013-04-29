@@ -1,0 +1,33 @@
+[
+	{
+		"title":"Big Buck Bunny",
+		"description":"Big Buck wakes up in his rabbit hole, only to be pestered by three critters, Gimera, Frank and Rinky. When Gimera kills a butterfly, Buck decides on a payback Predator-style",
+		"video":"big_buck_bunny_inverted.mp4",
+		"unencrypted": "big_buck_bunny.mp4",
+		"coverart": "big_buck_bunny.jpg"
+	},
+	{
+		"title":"Elephants Dream",
+		"description":"Emo and Proog are two men exploring a strange industrial world of the future.",
+		"video":"elephants_dream.mp4",
+		"coverart": "elephants_dream.jpg"
+	},
+	{
+		"title":"Sintel",
+		"description":"The film follows a girl named Sintel who is searching for a baby dragon she calls Scales.",
+		"video":"sintel.mp4",
+		"coverart": "sintel.jpg"
+	},
+	{
+		"title":"Tears of Steel",
+		"description":"The short science fiction film is about a group of warriors and scientists who gather at the Oude Kerk in a future Amsterdam to stage a crucial event from the past in a desperate attempt to rescue the world from destructive robots",
+		"video":"tears_of_steel.mp4",
+		"coverart": "tears_of_steel.jpg"
+	},
+	{
+		"title":"webinos channel",
+		"description":"Videos about the webinos project",
+		"video":"webinosChannel.mp4",
+		"coverart": "webinosChannel.jpg"
+	}
+]
